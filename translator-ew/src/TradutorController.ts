@@ -1,6 +1,6 @@
 import { Disposable, window } from 'vscode';
 const Say = require('say');
-const KEY = 'c53fecda0c2843fcb28784d68e7928fa';
+const KEY = 'SUA_CHAVE_AZURE';
 
 const Translator = require('mstranslator');
 const client = new Translator(
